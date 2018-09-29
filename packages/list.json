@@ -44,5 +44,22 @@
         "uri" : "md5-encrypt.html"
       }
     ]
+  },
+  {
+    "packageId" : "m1w0yhz3ug32p6leianls8d3",
+    "packageName" : "Preview Editor",
+    "iconUrl" : "https://como65416.github.io/DnToolContainer-packages/packages/icons/icon003.png",
+    "description" : "Some encode, decode and encrypt tool",
+    "downloadUrl" : "https://como65416.github.io/DnToolContainer-packages/packages/simple-preview-editor.zip",
+    "options" : [
+      {
+        "name" : "HTML Editor",
+        "uri" : "html-preview-editor.html"
+      },
+      {
+        "name" : "Markdown Editor",
+        "uri" : "markdown-preview-editor.html"
+      }
+    ]
   }
 ]

@@ -67,7 +67,7 @@
     "packageName" : "Data Converter",
     "iconUrl" : "https://como65416.github.io/DnToolContainer-packages/packages/icons/icon004.png",
     "description" : "Some data convert tool",
-    "downloadUrl" : "https://como65416.github.io/DnToolContainer-packages/packages/simple-data-converter.zip",
+    "downloadUrl" : "https://como65416.github.io/DnToolContainer-packages/packages/data-converter.zip",
     "options" : [
       {
         "name" : "Chinese Converter",

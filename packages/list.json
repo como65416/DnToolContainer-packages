@@ -82,5 +82,18 @@
         "uri" : "image-data-url-converter.html"
       }
     ]
+  },
+  {
+    "packageId" : "20HKkI4DBf5fY37CqmXP3uM4",
+    "packageName" : "CSV TSV",
+    "iconUrl" : "https://como65416.github.io/DnToolContainer-packages/packages/icons/icon005.png",
+    "description" : "csv tsv tool",
+    "downloadUrl" : "https://como65416.github.io/DnToolContainer-packages/packages/csv-tsv-editor.zip",
+    "options" : [
+      {
+        "name" : "TSV/CSV Editor",
+        "uri" : "index.html"
+      }
+    ]
   }
 ]

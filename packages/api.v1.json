@@ -1,0 +1,45 @@
+{
+  "storeIcon": "https://como65416.github.io/DnToolContainer-packages/packages/store.png",
+  "packages": [
+    {
+      "packageId" : "E7itlmmK4X6d4ZDExE1L1Sx1",
+      "version": "1.0.0",
+      "packageName" : "Beautifier/Formatter",
+      "iconUrl" : "https://como65416.github.io/DnToolContainer-packages/packages/icons/icon001.png",
+      "description" : "Some code beautify tool",
+      "downloadUrl" : "https://como65416.github.io/DnToolContainer-packages/packages/simple-beautifier-formatter-tool.zip"
+    },
+    {
+      "packageId" : "dfff5e5c63811c27649966b2",
+      "version": "1.0.0",
+      "packageName" : "Encode/Decode And Encrypt",
+      "iconUrl" : "https://como65416.github.io/DnToolContainer-packages/packages/icons/icon002.png",
+      "description" : "Some encode, decode and encrypt tool",
+      "downloadUrl" : "https://como65416.github.io/DnToolContainer-packages/packages/simple-encode-decode-tool.zip"
+    },
+    {
+      "packageId" : "m1w0yhz3ug32p6leianls8d3",
+      "version": "1.0.0",
+      "packageName" : "Preview Editor",
+      "iconUrl" : "https://como65416.github.io/DnToolContainer-packages/packages/icons/icon003.png",
+      "description" : "Some code priview editor",
+      "downloadUrl" : "https://como65416.github.io/DnToolContainer-packages/packages/simple-preview-editor.zip"
+    },
+    {
+      "packageId" : "z1weWI81s5FrEiWDtWIM3uM3",
+      "version": "1.0.0",
+      "packageName" : "Data Converter",
+      "iconUrl" : "https://como65416.github.io/DnToolContainer-packages/packages/icons/icon004.png",
+      "description" : "Some data convert tool",
+      "downloadUrl" : "https://como65416.github.io/DnToolContainer-packages/packages/data-converter.zip"
+    },
+    {
+      "packageId" : "20HKkI4DBf5fY37CqmXP3uM4",
+      "version": "1.0.0",
+      "packageName" : "CSV TSV",
+      "iconUrl" : "https://como65416.github.io/DnToolContainer-packages/packages/icons/icon005.png",
+      "description" : "csv tsv tool",
+      "downloadUrl" : "https://como65416.github.io/DnToolContainer-packages/packages/csv-tsv-editor.zip"
+    }
+  ]
+}

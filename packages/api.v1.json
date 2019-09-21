@@ -40,6 +40,14 @@
       "iconUrl" : "https://como65416.github.io/DnToolContainer-packages/packages/icons/icon005.png",
       "description" : "csv tsv tool",
       "downloadUrl" : "https://como65416.github.io/DnToolContainer-packages/packages/csv-tsv-editor.zip"
+    },
+    {
+      "packageId": "u7cmkwxrofj1uyddouuhpn0qfdkoax9crnugdybvgf",
+      "version": "1.0.0",
+      "packageName": "Data Generator",
+      "iconFile": "https://como65416.github.io/DnToolContainer-packages/packages/icons/icon006.png",
+      "description": "generate data utils",
+      "downloadUrl" : "https://como65416.github.io/DnToolContainer-packages/packages/Data-Generator.zip"
     }
   ]
 }

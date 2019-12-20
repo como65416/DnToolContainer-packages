@@ -49,6 +49,14 @@
       "iconUrl": "https://como65416.github.io/DnToolContainer-packages/packages/icons/icon006.png",
       "description": "generate data utils",
       "downloadUrl" : "https://como65416.github.io/DnToolContainer-packages/packages/data-generator.zip"
+    },
+    {
+      "packageId": "cq8yebnmddny697988ra9sodgf0ha6g6bj1o9g2895",
+      "version": "1.0.0",
+      "packageName": "Compare Utils",
+      "iconUrl": "https://como65416.github.io/DnToolContainer-packages/packages/icons/icon007.png",
+      "description": "content compare utils",
+      "downloadUrl" : "https://como65416.github.io/DnToolContainer-packages/packages/compare-utils.zip"
     }
   ]
 }

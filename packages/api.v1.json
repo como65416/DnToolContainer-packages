@@ -57,6 +57,14 @@
       "iconUrl": "https://como65416.github.io/DnToolContainer-packages/packages/icons/icon007.png",
       "description": "content compare utils",
       "downloadUrl" : "https://como65416.github.io/DnToolContainer-packages/packages/compare-utils.zip"
+    },
+    {
+      "packageId": "3pqlqRH0sWIZce9L1WQSWebloGjLpK1h0ZrvsI1KcU",
+      "version": "1.0.0",
+      "packageName": "QR Code Utils",
+      "iconUrl": "https://como65416.github.io/DnToolContainer-packages/packages/icons/icon008.png",
+      "description": "QR Code util collenction",
+      "downloadUrl" : "https://como65416.github.io/DnToolContainer-packages/packages/qr-code-utils.zip"
     }
   ]
 }

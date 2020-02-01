@@ -65,6 +65,14 @@
       "iconUrl": "https://como65416.github.io/DnToolContainer-packages/packages/icons/icon008.png",
       "description": "QR Code util collenction",
       "downloadUrl" : "https://como65416.github.io/DnToolContainer-packages/packages/qr-code-utils.zip"
+    },
+    {
+      "packageId": "8l67c5vrxs4fzx6inlpprl4eumfdsbk4hw3edmz1ihh",
+      "version": "1.0.0",
+      "packageName": "Image Text OCR",
+      "iconUrl": "https://como65416.github.io/DnToolContainer-packages/packages/icons/icon009.png",
+      "description": "OCR Util",
+      "downloadUrl" : "https://como65416.github.io/DnToolContainer-packages/packages/image-text-ocr.zip"
     }
   ]
 }
